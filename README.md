@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Repositório com as implementações desenvolvidas na disciplina **CKP8277 - Aprendizagem Automática ** da [Universidade Federal do Ceará (UFC)](https://www.ufc.br/).
+Repositório com as implementações desenvolvidas na disciplina **CKP8277 - Aprendizagem Automática** da [Universidade Federal do Ceará (UFC)](https://www.ufc.br/).
 
 O repositório contém listas de exercícios com a implementação prática de diversos algoritmos de *Machine Learning* em Python.
 
