@@ -1,10 +1,11 @@
+
 # CKP8277 - Aprendizagem Automática
 
 ## Sobre
 
-Repositório com as implementações desenvolvidas na disciplina **CKP8277 - Aprendizagem Automática** da [Universidade Federal do Ceará (UFC)](https://www.ufc.br/).
+Este repositório reúne as implementações que **eu desenvolvi** durante a disciplina **CKP8277 - Aprendizagem Automática**, cursada na [Universidade Federal do Ceará (UFC)](https://www.ufc.br/).
 
-O repositório contém listas de exercícios com a implementação prática de diversos algoritmos de *Machine Learning* em Python.
+O conteúdo é composto por listas de exercícios focadas na **implementação prática** de diversos algoritmos de *Machine Learning* em Python.
 
 ---
 
@@ -24,7 +25,7 @@ O repositório contém listas de exercícios com a implementação prática de d
 - **Python 3.x**
 - **NumPy**, **Pandas**, **Matplotlib**
 - **Scikit-learn** (quando permitido)
-- Jupyter Notebook
+- **Jupyter Notebook**
 
 ---
 
@@ -38,10 +39,10 @@ O repositório contém listas de exercícios com a implementação prática de d
 
 ---
 
-## Sobre
+## Observação
 
-Este repositório foi desenvolvido como parte das atividades da disciplina **CKP8277 - Aprendizagem Automática** da **Universidade Federal do Ceará (UFC)**.
-O objetivo é consolidar o aprendizado por meio da **implementação prática** dos algoritmos de Machine Learning.
+Este repositório reflete minha trajetória como aluno da disciplina **CKP8277 - Aprendizagem Automática** da **Universidade Federal do Ceará (UFC)**.
+Foi desenvolvido para consolidar meu aprendizado através da **implementação prática** dos principais algoritmos de Machine Learning.
 
 ---
 
